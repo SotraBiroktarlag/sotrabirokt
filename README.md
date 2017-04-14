@@ -1,7 +1,7 @@
 ## Velkommen til Sotra Birøktarlag sin nettside
 ![Logo](logo.jpg)
 
-Her kan du se våre [kommende arrangementer](link) og bilder fra tidligere arrangementer.
+Her kan du se våre [kommende arrangementer](arrangementer.md) og bilder fra tidligere arrangementer.
 
 
 #Ofte stilte spørsmål
