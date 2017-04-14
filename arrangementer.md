@@ -7,7 +7,7 @@
 
 
 ## April
-###23. - Workshop for 5-dronnings paringskube
+### 23. - Workshop for 5-dronnings paringskube
 Sotra Birøktarlag skal arrangere omlarvingsdager også i år, og i den forbindelse vil vi gjerne invitere til å lære kunsten i å produsere 5-dronnings paringskube for de nye dronningene vi lager.
 
 Workshopen er for medlemmer og støttemedlemmer av Sotra Birøktarlag. Kursdeltakerne må selv betale for materiell, som blir utlevert på workshopen til kostpris.
@@ -20,7 +20,7 @@ Start: kl 11.00
 KURSET ER DESSVERRE FULLT FOR I ÅR.
 
 ## Mai
-###2. KSL Birøkt Workshop
+### 2. KSL Birøkt Workshop
 KSL for Birøkt tilbyr oss birøktere hjelpemiddel for å kunne arbeide mer målrettet og systematisk for å kunne tilby honning som et kvalitetsprodukt.
 Sotra Birøktarlag ønsker å tilby vår medlemmer og støttemedlemmer en workshop, som skal se nærmere på bruken av et kvalitetssystem i birøkten vår.
 
@@ -30,7 +30,7 @@ Workshopen er gratis og tilgjengelig for medlemmer og støttemedlemmer av Sotra 
 
 Påmelding via link: https://goo.gl/forms/ugMe49GvTQ65MXbF2
 
-###3. - 5.  Varroatest-"safari" på Sotra
+### 3. - 5.  Varroatest-"safari" på Sotra
 Varroaen har etablert seg på Sotra og vi, i Sotra Birøktarlag, ønsker å tilby våre medlemmer og støttemedlemmer hjelp og testutstyr for å sjekke status i så mange bigårder som mulig.
 
 Testingen foregår med en CO2 tester, som er eid av Sotra Birøktarlag, og birøkterne får selv foreta testen under veiledning.
