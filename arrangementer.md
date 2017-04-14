@@ -2,9 +2,6 @@
 ![Logo](logo.jpg)
 
 # 2017
-## Februar
-### 23. Nybegynnerkurs
-
 
 ## April
 ### 23. - Workshop for 5-dronnings paringskube
@@ -28,7 +25,7 @@ Dette er ikke et fullstendig KSL kurs, men en introduksjon til KSL og bruk av hj
 
 Workshopen er gratis og tilgjengelig for medlemmer og støttemedlemmer av Sotra Birøktarlag.
 
-Påmelding via link: https://goo.gl/forms/ugMe49GvTQ65MXbF2
+Påmelding via [denne lenken](https://goo.gl/forms/ugMe49GvTQ65MXbF2)
 
 ### 3. - 5.  Varroatest-"safari" på Sotra
 Varroaen har etablert seg på Sotra og vi, i Sotra Birøktarlag, ønsker å tilby våre medlemmer og støttemedlemmer hjelp og testutstyr for å sjekke status i så mange bigårder som mulig.
@@ -43,19 +40,20 @@ Alle som blir med på Varroatest-"safarien", skal få oppfølging og hjelp til b
 
 Det er også mulig å få låne testutstyret fra laget. Meld din interesse på påmeldingsskjemaet.
 
-Klikk på link under for å melde deg på, eller for å be om å få låne CO2 tester.
-
-https://goo.gl/forms/vVWZ1zB7s8AgI19v2
+Klikk på [denne lenken](https://goo.gl/forms/vVWZ1zB7s8AgI19v2) for å melde deg på, eller for å be om å få låne CO2 tester.
 
 Værforbehold.
 
 ### 5.-19 Sertifiseringskurs
 
-
 ### Omlarvingskurs
 En kveld med forberedelser og 2–3 omlarvingsdager. En dag med brune bier og en med krainer.
-
 
 ## August
 ### 12. Workshop: En sertifiseringssafari,
 En praktisk repetisjon av sertifiseringskurset i etterkant. Dette blir holdt i en bigård.
+
+
+# Tidligere arrangementer
+## Februar
+### 23. Nybegynnerkurs
