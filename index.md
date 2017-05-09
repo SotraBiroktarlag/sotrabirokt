@@ -7,7 +7,7 @@ image: "assets/logo.jpg"
 excerpt:
 ---
 
-Her kan du se våre [kommende arrangementer](arrangementer.md) og bilder fra tidligere arrangementer.
+Her kan du se våre [kommende arrangementer]({{ site.baseurl }}{% link arrangementer.md %}) og bilder fra tidligere arrangementer.
 
 
 # Ofte stilte spørsmål  
@@ -17,6 +17,6 @@ Her kan du se våre [kommende arrangementer](arrangementer.md) og bilder fra tid
 
 # Kontaktinformasjon  
 Leder i Sotra Birøktarlag Sissel Goodgame [epost](mailto:sisselgoodgame@gmail.com), [telefon](tel:+4746823588)  
-Sotra birøktarlag sin epost [epost](mailto:sotra.biroektarlag@gmail.com)  
+Sotra birøktarlag sin [epost](mailto:sotra.biroektarlag@gmail.com)  
 Bankkontonummer  
 Organisasjonsnummer - 913 384 253  
