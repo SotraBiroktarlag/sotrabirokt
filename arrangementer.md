@@ -1,5 +1,10 @@
+---
+title: Arrangementer
+layout: page
+---
+
 ## Kommende arrangementer
-![Logo](logo.jpg)
+![Logo]({{ site.url }}/assets/logo.jpg)
 
 # 2017
 

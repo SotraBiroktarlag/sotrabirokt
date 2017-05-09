@@ -2,8 +2,8 @@
 title: Sotra Birøktarlag
 feature_text: |
   # Sotra Birøktarlag
-feature_image: "banner.jpg"
-image: "logo.jpg"
+feature_image: "assets/banner.jpg"
+image: "assets/logo.jpg"
 excerpt:
 ---
 
