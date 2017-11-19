@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Rapport fra Agdermotet"
 date:   2017-11-18 16:16:01 -0600
 categories: General Adgermotet
