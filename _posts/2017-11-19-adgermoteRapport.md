@@ -3,10 +3,11 @@ layout: post
 title:  "Rapport fra Agdermotet"
 date:   2017-11-18 16:16:01 -0600
 categories: General Adgermotet
+excerpt : "Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand og rapporterer tilbake."
 ---
 
 # Rapport fra Agdermøtet
-Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand og rapporterer tilbake.
+Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand.
 
 ## Fredag 17.11.2017
 Dagen startet kl 15.00 og var i sin helhet satt av til foredrag og diskusjoner rundt næringsbirøkt i Norge.
@@ -219,3 +220,5 @@ Tar bier fra gamle dronninger som ikke skal brukes til honningproduksjon.
 Bruker gamle dronninger som skal byttes til å produsere pleiebier til avleggere.
 Eller plukke yngeltavler fra de "øde" bigårdene som ikke har trekk resten av sesongen etter
 sommerhonningen er høstet.
+
+Leif Helge Movil & Kjetil Riisnes
