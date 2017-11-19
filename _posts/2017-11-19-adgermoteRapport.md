@@ -35,7 +35,9 @@ Det er 3 punkter man må kunne gi et godt svar på for at søknaden skal kunne b
 3. Kan jeg tjene penger på løsningen
 
 Målet men prosjektet må være å tjene penger og skape arbeidsplasser. Innovasjon Norge støtter lettere varig investeringer i utstyr eks slyngerom eller utvikling av nytt kubemateriell.
+
 Det ble en del spørsmål fra salen angående om innovasjon Norge kunne støtte innkjøp av bifolk eller utgifter til vandreutstyr. Innovasjon Norge har støttet slike tiltak før, men det er avhengig av lokale prioriteringer.
+
 Marko Neven fortalte hvordan Norges birøkterlag arbeider sammen med bondelagene for å påvirke jordbruksoppgjøret og budsjetteringen innen landbruket. Det er viktig at birøkterlagene fremmer Næringsbirøkternes sak lokalt der de bor slik at fylkeslagene i bondelaget og småbrukerlaget kan få dette med i jordbruksforhandlingene. Den siste stortingsmeldingen inneholder flere positive punkter for birøkt.
 
 ## Lørdag 18.11.2017
@@ -44,8 +46,7 @@ Dagen startet med et historisk tilbakeblikk på Honningcentralens historie.
 Kristin Slyngstad tok oss med på en reise fra Honningcentralens begynnelse på 1920 tallet og frem til i dag.
 Etter et historisk tilbakeblikk ble det fokusert på nåsituasjonen og utfordringene som ligger forran oss de neste 90 årene.
 
-Honningcentralen har som mål å satse på næringsbirøkterne og få Norsk honningproduksjon opp på
-tidligere nivåer på over 1500 tonn honning. De ønsker å satse på sortshonning, flytende  onning og tavlehonning for å øke konsumet i Norge. I Norge i dag spiser vi 0,5 kg honning pr innbygger mens i resten av europa er dette tallet 2 kg.
+Honningcentralen har som mål å satse på næringsbirøkterne og få Norsk honningproduksjon opp på tidligere nivåer på over 1500 tonn honning. De ønsker å satse på sortshonning, flytende  onning og tavlehonning for å øke konsumet i Norge. I Norge i dag spiser vi 0,5 kg honning pr innbygger mens i resten av europa er dette tallet 2 kg.
 
 Resten av tiden frem til lunsj var satt av til informasjon rundt sykdomsbekjempelse og en debatt hvor blant annet mattilsynet hadde en representant med i panelet.
 
@@ -182,13 +183,12 @@ Tapper og selger 1200 kg egen honning.
 Besøker 4-5 bigårder pr dag.
 Kjøper alle dronningene og noterer inne i kubetaket hvilke dronning det er eks IN 008
 2 første bokstaver er initialene til dronningavleren, 008 er nummerserien.
-Bytter dronninger etter behov, men har ikke faste rutiner på dette. Slår sammen svake kuber
-gjennom sesongen.
+Bytter dronninger etter behov, men har ikke faste rutiner på dette. Slår sammen svake kuber gjennom sesongen.
 Henger med plass til 8 europaller, 6 kasser pr palle, bruker trøkk for å løfte pallene inn.
 
 Sjekker kubene 6 ganger i året.
 Arbeidskostnad er beregnet til 5 kr pr minutt
-4For å få dette til så må det god planlegging til og her er de 6 trinnene i prosessen.
+For å få dette til så må det god planlegging til og her er de 6 trinnene i prosessen.
 1. Sjekke foret og Utvider tidlig med første kasse, men de setter den på bunn for at de skal
 beholde varmen oppe i yngelrommet. Biene vil ikke lagre honning under yngelleiet.
 2. Andre runde i bigården er å sette på 2-3 skattekasser på kubene. De legger plastikk på
@@ -223,4 +223,4 @@ Bruker gamle dronninger som skal byttes til å produsere pleiebier til avleggere
 Eller plukke yngeltavler fra de "øde" bigårdene som ikke har trekk resten av sesongen etter
 sommerhonningen er høstet.
 
-Leif Helge Movil & Kjetil Riisnes
+Leif Helge Molvik & Kjetil Riisnes
