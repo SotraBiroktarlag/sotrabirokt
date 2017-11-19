@@ -10,13 +10,15 @@ excerpt:
 Her kan du se våre [kommende arrangementer]({{ site.baseurl }}{% link arrangementer.md %}) og bilder fra tidligere arrangementer.
 
 
-# Ofte stilte spørsmål  
+<!-- # Ofte stilte spørsmål  
 - Jeg vil bli birøkter, hvem kontakter jeg?
 - Jeg har funnet en sverm, hva gjør jeg?
-- Jeg vil kjøpe bikube, hvem selger?
+- Jeg vil kjøpe bikube, hvem selger? -->
 
 # Kontaktinformasjon  
-Leder i Sotra Birøktarlag Sissel Goodgame [epost](mailto:sisselgoodgame@gmail.com), [telefon](tel:+4746823588)  
-Sotra birøktarlag sin [epost](mailto:sotra.biroektarlag@gmail.com)  
-Bankkontonummer 3628.51.19647  
+For generell kontakt, sende epost til Sotra birøktarlag sin [epost](mailto:sotra.biroektarlag@gmail.com) 
+
+Leder i Sotra Birøktarlag Kjetil Riisnes [epost](mailto:kjetil.riisnes@gmail.com), [telefon](tel:+4790041456)  
+Bankkontonummer     - 3628.51.19647  
 Organisasjonsnummer - 913 384 253  
+Vipps               - Sotra Birøktarlag
