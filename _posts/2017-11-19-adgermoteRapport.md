@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "Rapport fra Agdermøtet i 2017"
+title:  "Rapport fra Agdermotet i 2017"
 date:   2017-11-18 16:16:01 -0600
-categories: General Adgermøtet
+categories: General Adgermotet
 ---
 
 # Rapport fra Agdermøtet 17-19.11.2017
