@@ -1,3 +1,12 @@
+---
+title: Rapport fra Agdermøtet i 2017
+category: General
+excerpt: |
+  Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand og rapporter tilbake
+date:   2017-11-19
+categories: adgermøtet 
+---
+
 # Rapport fra Agdermøtet 17-19.11.2017
 Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand.
 ## Fredag 17.11.2017
