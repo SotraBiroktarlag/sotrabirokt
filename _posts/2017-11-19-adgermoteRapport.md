@@ -6,7 +6,6 @@ categories: General Adgermotet
 excerpt : "Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand og rapporterer tilbake."
 ---
 
-# Rapport fra Agdermøtet
 Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand.
 
 ## Fredag 17.11.2017
@@ -17,8 +16,11 @@ Thomas Dahl startet med å fortelle hvordan næringsbirøkterne gjør det i Sver
 Metodene som ble brukt for å oppnå dette var blant annet å ha jevngamle dronninger i hver bigård. Kubene står i samme bigård i 3 år. År 3 blir kubene brukt til å lage nye avleggere.
 
 År 0 = 40 kuber, 800 kg honning , utjevning og passe på forsituasjonen
+
 År 1 = 40 kuber, 2000 kg honning, utjevning, flyttet opp yngel og sette inn byggevoks for å forhindre sverming.
+
 År 2 = 40 kuber, 2000 kg honning, utjevning, flytte opp yngelrammer til laging av avleggere, taper ikke honning på dette da det er overskytende yngel som blir flyttet til avleggerne.
+
 År 3/0 = Bruker alle biene fra de 40 kubene til å lage 100 avleggere sammen med forseglet yngel fra kubene fra år 2. 40 av kubene går tilbake til vanlig produksjon mens de siste 60 kan selges, eller brukes til utvidelse.
 
 Med denne metoden holder han hele tiden samme kubetall i tillegg til å ha avleggere for salg og har enkel drift i alle bigårdene.
