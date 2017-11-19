@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Arrangementer i 2016
 category: General
 excerpt: |
