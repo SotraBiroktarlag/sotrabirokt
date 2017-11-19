@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Rapport fra Agdermøtet i 2017"
 date:   2017-11-19 19:50:00 
 categories: General Adgermøtet
