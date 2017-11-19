@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Rapport fra Agdermøtet i 2017"
-date:   2017-11-19 16:16:01 -0600
+date:   2017-11-18 16:16:01 -0600
 categories: General Adgermøtet
 ---
 
