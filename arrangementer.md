@@ -9,34 +9,43 @@ layout: page
 
 # 2018
 
-## Februar 
-
-### Nybegynnerkurs i birøkt
-Innledende del. Starter 7 februar. Arrangeres av Truls Berg i Biebutikken i Arna sine lokaler.
-
-Kurset koster kr. 2.200 pluss pensumboken som koster kr. 240.-.
- 
-Meld deg på ved å sende en epost til Sotra Birøktarlag på sotra.biroektarlag@gmail.com
-
 
 ## Mars 
 
 ### Sertifiseringskurs
 Sotra Birøktarlag tilbyr kompetansekurs for birøktere, som planlegger bli sertifiserte birøktere i år. Kurset avholdes over to helger, med avsluttende eksamen.
 
+
 For å få formell sertifiserig må deltakerne (i tillegg til eksamen) ha gjennomgått Fagforedraget, som i år blir arrangert av Sunnhordland Birøkterlag til våren. Egen invitasjon til dette følger fra Hordaland- / Bømlo Birøkterlag. Det er også mulig å melde seg på fagforedraget andre steder i landet (se sted/dato www.norbi.no)
 
+
 Datoer:
-Lørdag, 17. mars kl. 11.00 - 15.00
-Søndag, 18. mars kl.11.00 - 15.00
-Lørdag, 7. April kl. 11.00 - 16.00 (inkl. 1 time avsluttende eksamen)
+
+- Lørdag, 17. mars kl. 11.00 - 15.00
+- Søndag, 18. mars kl.11.00 - 15.00
+- Lørdag, 7. April kl. 11.00 - 16.00 (inkl. 1 time avsluttende eksamen)
+
 
 Pris: kr 1 000,-
 Kursavgift dekker foredragsholder, enkel servering, administrasjon og eksamensvakt.
 
-Påmelding via google forms https://goo.gl/forms/xsSgWXFGmF1hBgyu2
 
-Facebooklenke til arrangementet: https://www.facebook.com/events/142030159817269/
+Påmelding via google forms [lenke til skjema her](https://goo.gl/forms/xsSgWXFGmF1hBgyu2)
+
+[Facebooklenke til arrangementet her](https://www.facebook.com/events/142030159817269/)
+
+## Februar 
+
+### Nybegynnerkurs i birøkt
+Innledende del. Starter 7 februar. Arrangeres av Truls Berg i Biebutikken i Arna sine lokaler.
+
+
+Kurset koster kr. 2.200 pluss pensumboken som koster kr. 240.-.
+ 
+ 
+Meld deg på ved å sende en epost til Sotra Birøktarlag på [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com)
+
+
 
 
 # Tidligere arrangementer
