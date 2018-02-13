@@ -14,6 +14,8 @@ layout: page
 ### Nybegynnerkurs i birøkt
 Innledende del. Starter 7 februar. Arrangeres av Truls Berg i Biebutikken i Arna sine lokaler.
 
+Kurset koster kr. 2.200 pluss pensumboken som koster kr. 240.-.
+ 
 Meld deg på ved å sende en epost til Sotra Birøktarlag på sotra.biroektarlag@gmail.com
 
 
