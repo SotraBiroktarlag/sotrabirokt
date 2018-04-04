@@ -1,9 +1,9 @@
 <aside class="aside  typeset">
 
-  {% unless page.layout == "categories" or page.collection == "posts" %}
+  <!-- {% unless page.layout == "categories" or page.collection == "posts" %}
     <h3>About this site</h3>
     <p>{{ site.description }}</p>
-  {% endunless %}
+  {% endunless %} -->
 
   {% unless page.layout == "categories" or page.layout == "search" or page.collection == "posts" or paginator.posts %}
     {% include post-list.html %}
@@ -21,7 +21,7 @@
   {% endif %}
 
   {% if page.collection == "posts" or paginator.posts %}
-    {% include button.html text="Subscribe to posts &nbsp;" icon="rss" link="/feed.xml" %}
+    {% include button.html text="Abonner på innlegg &nbsp;" icon="rss" link="/feed.xml" %}
   {% endif %}
 
   {% unless page.layout == "categories" %}
