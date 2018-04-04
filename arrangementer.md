@@ -3,14 +3,13 @@ title: Arrangementer
 layout: page
 ---
 
-## Kommende arrangementer
-![Logo]({{ site.url }}/assets/logo.jpg)
+Laget arrangerer som regel minst et nybegynnerkurs og et sertifiseringskurs i året. Det pleier også å være en del mindre arrangementer og arbeidsverksteder for spesielle tema som varroabehandling, omlarvingsdager og produksjon av spesielle kuber og utstyr.
 
+# Kommende og pågående arrangementer
 
 # 2018
 
-
-## Mars 
+## April-Mars
 
 ### Sertifiseringskurs
 Sotra Birøktarlag tilbyr kompetansekurs for birøktere, som planlegger bli sertifiserte birøktere i år. Kurset avholdes over to helger, med avsluttende eksamen.
