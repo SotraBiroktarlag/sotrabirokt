@@ -15,6 +15,9 @@ Her kan du se våre [kommende arrangementer]({{ site.baseurl }}{% link arrangeme
 - Jeg har funnet en sverm, hva gjør jeg?
 - Jeg vil kjøpe bikube, hvem selger? -->
 
+# Medlemskap
+Man kan være fullt medlem og støttemedlem (hvis man vil delta på arrangementer og låne utstyr, men er medlem i et annet lag). Se [medlemskap]({{ site.baseurl }}{% link medlemskap.md %}).
+
 # Kontaktinformasjon  
 For generell kontakt, sende epost til Sotra birøktarlag sin [epost](mailto:sotra.biroektarlag@gmail.com) 
 
