@@ -52,9 +52,9 @@ collections:
   posts:
     title: Innlegg # Needed for Siteleaf
     output: true
-    description: "Blogginnlegg fra Sotra Birøktarlag" # The post list page content
+    # description: "Innlegg fra Sotra Birøktarlag" # The post list page content
     feature_text: |
-      Velkommen til bloggen
+       Innlegg fra Sotra Birøktarlag
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
@@ -89,6 +89,7 @@ navigation_header:
   Home: /
   Blogg: /blog/
   Søk: /search/
+  Medlemskap: /medlemskap/
   Arrangementer: /arrangementer/
 
 
