@@ -8,8 +8,8 @@ I september 2017 var det registrert 62 medlemskap i laget, hvorav 4 er familieme
 ## Ordinært medlemskap
 For å bli medlem i laget må man sende epost til  [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com). Medlemskap koster 80 kr.
 
-## Familiemedlemskap
-Familiemedlemskap er tilgjengelig for ... For å opprette familiemedlemmer må man sende epost til [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com). Familiemedlemskap koster 80 kr.
+<!-- ## Familiemedlemskap
+Familiemedlemskap er tilgjengelig for ... For å opprette familiemedlemmer må man sende epost til [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com). Familiemedlemskap koster 80 kr. -->
 
 ## Støttemedlemskap
 Støttemedlemskap er tilgjengelig hvis man vil delta på Sotra Birøktarlag sine arrangementer og låne lagets utstyr, men er medlem i et annet lag. 
