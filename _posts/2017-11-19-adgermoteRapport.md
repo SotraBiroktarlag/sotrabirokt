@@ -2,7 +2,7 @@
 layout: post
 title:  "Rapport fra Agdermotet"
 date:   2017-11-18 16:16:01 -0600
-categories: General Adgermotet
+category:  Innlegg
 excerpt : "Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand og rapporterer tilbake."
 ---
 
