@@ -1,13 +1,3 @@
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site navigation
-
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
@@ -82,7 +72,6 @@ description: "Dette er Sotra Birøktarlag sin nettside" # Site description and d
 url: "xn--sotrabirktarlag-dub.no" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/SotraBiroktarlag/sotrabirokt/"
 email: "sotra.biroektarlag@gmail.com"
-#avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
@@ -91,10 +80,6 @@ navigation_header:
   Søk: /search/
   Medlemskap: /medlemskap/
   Arrangementer: /arrangementer/
-
-
-#navigation_footer:
-  #Created by David Darnes: https://darn.es
 
 social_links:
   Facebook: https://www.facebook.com/groups/419165308221828/
