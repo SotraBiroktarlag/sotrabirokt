@@ -19,8 +19,9 @@ plugins:
 - jekyll-feed
 - jemoji
 
+
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 4 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 author: Sotra Birøktarlag # jekyll-seo-tag > default author
@@ -29,6 +30,11 @@ social: # jekyll-seo-tag > social overrides
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.facebook.com/groups/419165308221828/
 
+#https://github.com/git-no/jekyll-breadcrumbs
+breadcrumbs:
+  root:
+    hide: false  # show breadcrumbs on root/home page
+    image: true # Show image or title text
 
 # 4. Jekyll settings
 sass:
