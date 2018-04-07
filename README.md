@@ -32,3 +32,6 @@ Denne framgangsmåten krever linux(unbutu/debian) og ruby. Dette kan gjøres på
 - bundle install
 - bundle exec jekyll serve
 - Gå til http://127.0.0.1:4000 for å se
+
+## Bygge fersk nettside på serveren
+- bundle exec jekyll build
