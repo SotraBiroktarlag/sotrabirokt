@@ -39,7 +39,7 @@ breadcrumbs:
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+permalink: /:title/  # Permalink pretty style (/YYYY/MM/DD/page-name/), only title permalink: /:title/
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/Oslo # Timezone for blog posts and alike
 
@@ -71,7 +71,7 @@ defaults:
       image: "/assets/placeholder-social.png" # Default image for sharing
 
 # 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
+encoding: UTF-8 # Make sure the encoding is right
 title: "Nyheter og informasjon fra Sotra Birøktarlag" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Dette er Sotra Birøktarlag sin nettside" # Site description and default description, also used in jekyll-seo-tag
