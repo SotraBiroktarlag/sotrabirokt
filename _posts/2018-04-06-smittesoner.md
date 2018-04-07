@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Mattilsynets smittesoner
-date:  2018-04-23 16:16:01 -0600
+title: "Mattilsynets Smittesoner"
+date:  2018-04-07
 category: sykdom
 excerpt: |
-  En oversikt over smittesonene til Mattilsynet og hva det medfører for birøkterene i Hordaland
+  En oversikt over smittesonene til Mattilsynet
 ---
-
 En oversikt over de vedtatte smittesonene som gjelder birøkt kan finnes i [Forskrift om birøkt - vedlegg 1](https://lovdata.no/dokument/SF/forskrift/2009-04-06-416#KAPITTEL_6).
 
 De aktuelle sonene som grenser Hordaland er:
