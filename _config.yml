@@ -78,6 +78,7 @@ description: "Dette er Sotra Birøktarlag sin nettside" # Site description and d
 url: "xn--sotrabirktarlag-dub.no" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/SotraBiroktarlag/sotrabirokt/"
 email: "sotra.biroektarlag@gmail.com"
+lang: nb-no
 
 # 8. Site navigation
 navigation_header:
