@@ -39,4 +39,8 @@ Utenlandske butikker
 - Molvik gard som har mål å selge en del avleggere i 2018
 
 #### Dronningprodusenter
-- [Røisilien bigård](http://www.bigard.no/no/dronningavl)
+
+Norges birøkterlag har en liste her [norbi.no/avlsdronningeravlereparestasjoner](http://www.norbi.no/avlsdronningeravlereparestasjoner.cfm])
+
+<!-- 
+- [Røisilien bigård](http://www.bigard.no/no/dronningavl) -->
