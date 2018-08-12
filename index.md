@@ -29,7 +29,7 @@ Man kan være ordinært medlem eller støttemedlem i Sotra Birøktarlag. Støtte
 # Kontaktinformasjon  
 For generell kontakt, sende epost til Sotra birøktarlag sin [epost](mailto:sotra.biroektarlag@gmail.com) 
 
-Leder i Sotra Birøktarlag Kjetil Riisnes [epost](mailto:kjetil.riisnes@gmail.com), [telefon](tel:+4790041456)  
+Leder i Sotra Birøktarlag Kjetil Riisnes [epost](mailto:kjetil.riisnes@gmail.com), [telefon](tel:+4790041465)  
 
 Bankkontonummer     - 3628.51.19647  
 
