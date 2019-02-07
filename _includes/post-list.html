@@ -26,7 +26,7 @@
 
 					<h4><a href="{{ page.url }}" title="Post - {{ page.title }}">{{ page.title }}</a></h4>
 					{% include post-meta.html %}
-					{{ page.excerpt | markdownify | truncatewords: 60 }}
+					{{ page.excerpt | markdownify | truncatewords: 20 }}
 
 				</article>
 			</li>
