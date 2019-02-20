@@ -5,16 +5,10 @@ layout: page
 
 # Fagforedrag på Stend
 
-> Stend Videregånde skole (tidligere jordbruksskolen)
->
-> Fanavegen 249, 5244 Fana
->
-> Hovedauditoriet
->
-> 11 . mai, kl 10:00
-
-Sotra birøktarlag har booket Stend og Norges Birøktarlag den 11 mai klokka 10:00, hovedauditoriet, til fagforedrag.
+Sotra birøktarlag har booket hovedauditoriet på Stend og Norges Birøktarlag  til fagforedrag den 11 mai klokka 10:00
 
 Vi kommer tilbake med flere foredragsholdere så det blir en skikkelig fagdag.
+
+Adresse: Fanavegen 249, 5244 Fana
 
 Vel møtt!

@@ -5,15 +5,19 @@ layout: page
 
 # Invitasjon til dialogmøte om PolliVest
 
-> Fleischers Hotell
-> Voss onsdag 27.februar
-> kl. 17.00-20.00
-
 PolliVest ønsker å knytte tettere kontakt mot birøkterlagene i Hordaland, og inviterer derfor til dialogmøte for å orientere om prosjektet.
 
-Møtet finner sted på Fleischers Hotel på Voss onsdag 27.feb. kl 17-20.
+## Møtet finner sted
 
-Interesserte bes melde seg til laget [på epost](mailto:sotra.biroektarlag@gmail.com) innen 22. februar så laget kan videreformidle hvor mange som kommer
+Fleischers Hotel
+
+Evangervegen 13, 5704 Voss
+
+Onsdag 27.februar
+
+kl 17:00-20:00
+
+***Interesserte bes melde seg til laget [på epost](mailto:sotra.biroektarlag@gmail.com) innen 22. februar så laget kan videreformidle hvor mange som kommer***
 
 ## Tema for dagen
 
