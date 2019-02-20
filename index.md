@@ -7,7 +7,8 @@ image: "assets/logo.jpg"
 excerpt:
 ---
 
-Dette er Sotra Birøtarlag sine nettsider. Her kan du se våre [kommende arrangementer]({{ site.baseurl }}{% link arrangementer.md %}) og bilder fra tidligere arrangementer.
+Dette er Sotra Birøtarlag sine nettsider. Her kan du se våre [kommende arrangementer]({{ site.baseurl }}{% link arrangementer.md %}) 
+ <!-- og bilder fra tidligere arrangementer. -->
 
 # Ofte stilte spørsmål  
 
