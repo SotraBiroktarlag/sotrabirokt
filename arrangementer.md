@@ -24,7 +24,10 @@ Følg med for videre informasjon
 
 ### Nybegynnerkurs 2019
 
-Et nybegynnerkurs er nettop ferdig og et nytt starter i starten av februar. Disse blir arrangert av Truls Berg og holdt hos Biebutikken i Arna.
+Et nybegynnerkurs er nettop ferdig og et nytt starter 18. februar. Dette koster 2500 kr, pluss 400 for læreboken.
+Det er 9 undervisningkvelder pluss ubegrenset tilgang til så mye praksis i lagsbigården som en vil. Det er et arragert opplegg hver uke.
+
+Nybegynnerkursene blir arrangert av Truls Berg og holdt hos Biebutikken i Arna.
 
 ### Sertifiseringskurs 2019
 
