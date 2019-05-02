@@ -11,14 +11,32 @@ Laget arrangerer som regel minst et nybegynnerkurs og et sertifiseringskurs i å
 
 Det vil være en rekke arragementer i 2019:
 
-- Laget fortsetter å møtes på Bien Bar
-- Varroasafari
 - Fellestur til Vossamøtet
 - Rammesmeltedag hos Harold
 - Minikurs i økonomi for birøktere
 - Omlarveringsdager
 
 Følg med for videre informasjon
+
+## Mai
+
+### Sosialt på Bien bar 8. mai 18:00
+
+Vi tar en ny samling på bien snackbar nå som sesongen er i gang igjen. 
+
+Vi bestiller bord fra klokken seks og blir sittende utover kvelden.
+
+Vi håper mange kommer innom og deler erfaringer og forteller gode historier fra sesongen. Vi bestiller noen bord og det er mulig å spise og drikke.  Spre det gjerne til andre dere kjenner som driver med bier eller er interessert i birøkt.
+
+Man kan parkere enten rett nedenfor krysset, mot legevakten, eller utenfor selve legevakten. Alternativt bystasjonen og ta bybanen opp.
+
+[Facebookarrangement](https://www.facebook.com/events/2365461453778657/)
+
+### Fagforedrag på Stend 11.mai kl 11:00
+
+Sotra Birøktarlag har i år gleden av å invitere til fagdag på Stend vgs. (Landbruksskolen på Stend, Fanavegen 249, 5244 Fana), 11 mai kl 11:00 i hovedauditoriet.
+
+Se innlegget [Fagforedrag med Sotra Birøktarlag](http://xn--sotrabirktarlag-dub.no/fagforedrag_2019/) for utfyllende informasjon
 
 ## Februar
 
@@ -43,7 +61,9 @@ Pris for kurset på Sotra er kr 2.000, som må betales før kursstart. I tillegg
 
 [Facebooklenke til arrangementet her](https://www.facebook.com/events/169887693949491/) (samme informasjonen som her)
 
-# 2018
+# Tidligere arrangementer
+
+## 2018
 
 ## Oktober
 
@@ -175,7 +195,6 @@ Kurset koster kr. 2.200 pluss pensumboken som koster kr. 240.-.
 
 Meld deg på ved å sende en epost til Sotra Birøktarlag på [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com)
 
-# Tidligere arrangementer
 
 ## 2017
 
