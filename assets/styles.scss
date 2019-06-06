@@ -2,7 +2,6 @@
 title: false
 ---
 
-
 // Frameworks & Imports
 @charset "utf-8";
 @import "colors";
@@ -10,7 +9,6 @@ title: false
 @import "sassline-base";
 @import "syntax";
 @import "flex";
-
 
 // Structural elements
 body {
@@ -27,7 +25,6 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
-
 
 // Header, feature and footer
 .header,
@@ -49,7 +46,7 @@ body {
 }
 
 .feature {
-  padding-bottom: .4rem;
+  padding-bottom: 0.4rem;
   margin-bottom: 1.6rem;
   text-align: center;
   background: $color__site--accent;
@@ -74,7 +71,7 @@ body {
 }
 
 .small {
-  padding-top: .8rem;
+  padding-top: 0.8rem;
   color: $color__site--captions;
   display: inline-block;
 }
@@ -88,7 +85,6 @@ body {
     }
   }
 }
-
 
 // Nav and copyright
 .nav {
@@ -112,7 +108,6 @@ body {
     @include order(-1);
   }
 }
-
 
 // Main content
 .main {
@@ -159,7 +154,7 @@ body {
 
 .share {
   .button {
-    margin-right: .3rem;
+    margin-right: 0.3rem;
   }
 }
 
@@ -169,7 +164,7 @@ body {
     max-width: 34%;
     @include flex(1, 0, auto);
     opacity: 0.5;
-    transition: opacity .1s;
+    transition: opacity 0.1s;
     &:hover {
       opacity: 1;
     }
@@ -183,7 +178,6 @@ body {
     top: 0;
   }
 }
-
 
 // Lists
 .list {
@@ -220,15 +214,14 @@ body {
   }
 }
 
-
 // Links, icons and images
 .link {
   display: inline-block;
-  margin: .2rem;
+  margin: 0.2rem;
   line-height: 1;
   .icon {
     display: inline-block;
-    transition: fill .1s;
+    transition: fill 0.1s;
     &:hover {
       fill: darken($color__site--link, 10%);
     }
@@ -260,8 +253,8 @@ img {
     left: 50%;
     margin-left: -50vw;
     .caption {
-      padding-left: .8rem;
-      padding-right: .8rem;
+      padding-left: 0.8rem;
+      padding-right: 0.8rem;
     }
   }
   @include breakpoint(break-1) {
@@ -270,15 +263,14 @@ img {
     }
     &--left {
       float: left;
-      padding-right: .8rem;
+      padding-right: 0.8rem;
     }
     &--right {
       float: right;
-      padding-left: .8rem;
+      padding-left: 0.8rem;
     }
   }
 }
-
 
 // Video and map embeds
 .video,
@@ -302,14 +294,13 @@ img {
 .figure,
 .video,
 .map {
-  margin-bottom: .8rem;
+  margin-bottom: 0.8rem;
 }
 
 audio,
 video {
   width: 100%;
 }
-
 
 // Form elements and buttons
 button,
@@ -319,16 +310,16 @@ input[type="email"],
 input[type="search"],
 input[type="submit"],
 textarea {
-  padding: .6rem 1.2rem;
-  margin-bottom: .6rem;
-  transition: color .1s, background-color .1s, border .1s;
+  padding: 0.6rem 1.2rem;
+  margin-bottom: 0.6rem;
+  transition: color 0.1s, background-color 0.1s, border 0.1s;
   line-height: inherit;
   border: none;
   box-shadow: none;
   border-radius: 0;
   -webkit-appearance: none;
   .icon {
-    margin: 0 0 .35rem;
+    margin: 0 0 0.35rem;
   }
 }
 
@@ -339,15 +330,15 @@ button,
   display: inline-block;
   background: $color__site--accent;
   position: relative;
-  transition: box-shadow .1s;
+  transition: box-shadow 0.1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 2rem transparent;
   &:hover {
-    box-shadow: inset 0 0 0 2rem rgba(0,0,0,0.2);
+    box-shadow: inset 0 0 0 2rem rgba(0, 0, 0, 0.2);
   }
   &:active,
   &:focus {
-    box-shadow: inset 0 0 0 2rem rgba(0,0,0,0.4);
+    box-shadow: inset 0 0 0 2rem rgba(0, 0, 0, 0.4);
   }
 }
 
@@ -358,7 +349,7 @@ input,
 textarea {
   &:focus,
   &:hover:focus {
-    outline: solid .12rem invert($color__site--accent);
+    outline: solid 0.12rem invert($color__site--accent);
   }
 }
 
@@ -378,15 +369,21 @@ textarea {
 }
 
 textarea {
-    resize: vertical;
+  resize: vertical;
 }
 
 label {
-  @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+  @include baseline(
+    $fontsize: zeta,
+    $font: $bodytype,
+    $lineheight: 2,
+    $below: 2,
+    $breakpoint: all
+  );
 }
 
 code {
-  padding: .12rem .2rem;
+  padding: 0.12rem 0.2rem;
 }
 
 pre code {
