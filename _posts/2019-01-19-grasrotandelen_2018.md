@@ -3,7 +3,9 @@ title: Grasrotandelen
 layout: page
 ---
 
-Flott resultat også i 2018. Fordi 17 spillere valgte Sotra Birøkarlag til sin grasrotmottaker i Norsk Tipping, fikk vi tildelt hele 8734 kroner. Disse kommer godt med når laget skal planlegge medlems'aktiviteter i 2019. Tusen takk til alle dere 😊
+Flott resultat også i 2018. Fordi 17 spillere valgte Sotra Birøkarlag til sin grasrotmottaker i Norsk Tipping, fikk vi tildelt hele 8734 kroner.
+
+ <!-- more --> Disse kommer godt med når laget skal planlegge medlems'aktiviteter i 2019. Tusen takk til alle dere 😊
 
 Oversikten viser at ytterligere 6 personer i tillegg har valgt laget vårt som sin grasrotmottager i år, takk for at dere valgte oss 😊
 

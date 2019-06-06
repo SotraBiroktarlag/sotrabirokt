@@ -8,6 +8,9 @@ excerpt : "Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kr
 
 Kjetil Riisnes og Leif-Helge Molvik har deltatt på agder-møtet i Kristiansand.
 
+ <!-- more -->
+
+
 ## Fredag 17.11.2017
 Dagen startet kl 15.00 og var i sin helhet satt av til foredrag og diskusjoner rundt næringsbirøkt i Norge.
 

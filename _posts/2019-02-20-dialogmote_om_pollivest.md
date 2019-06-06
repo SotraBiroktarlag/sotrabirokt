@@ -3,9 +3,9 @@ title: Dialogmøte om PolliVest
 layout: page
 ---
 
-# Invitasjon til dialogmøte om PolliVest
-
 PolliVest ønsker å knytte tettere kontakt mot birøkterlagene i Hordaland, og inviterer derfor til dialogmøte for å orientere om prosjektet.
+
+ <!-- more -->
 
 ## Møtet finner sted
 
@@ -17,7 +17,7 @@ Onsdag 27.februar
 
 kl 17:00-20:00
 
-***Interesserte bes melde seg til laget [på epost](mailto:sotra.biroektarlag@gmail.com) innen 22. februar så laget kan videreformidle hvor mange som kommer***
+**_Interesserte bes melde seg til laget [på epost](mailto:sotra.biroektarlag@gmail.com) innen 22. februar så laget kan videreformidle hvor mange som kommer_**
 
 ## Tema for dagen
 
