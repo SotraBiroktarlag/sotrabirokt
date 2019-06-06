@@ -5,24 +5,19 @@ layout: default
 {% include site-header.html %}
 
 <main class="main  container">
-
-	<div class="content">
-
+  <div class="content">
     <article class="article  article--page  typeset">
+      {% assign collectiondata = site.collections | where: "label",
+      page.collectionpage | first %}
+      <h1>{{ collectiondata.title }}</h1>
 
-			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-			<h1>{{ collectiondata.title }}</h1>
-
-			{{ collectiondata.description | markdownify }}
-
+      {{ collectiondata.description | markdownify }}
     </article>
 
     {% include post-list.html %}
-
   </div>
 
   {% include site-aside.html %}
-
 </main>
 
 {% include site-footer.html %}
