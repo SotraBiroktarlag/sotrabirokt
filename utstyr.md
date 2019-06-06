@@ -14,6 +14,6 @@ Sotra Birøktarlag har noe utstyr tilgjengelig for medlemmene
 - Roll-up plakater til utlån til feks stand
 - Mikroskop
 
-Utstyret kan lånes ved å sende epost til  [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com) eller ved å forhøre seg på [Facebooksiden til laget](https://www.facebook.com/groups/419165308221828/) for å høre hvor utstyret befinner seg.
+Utstyret kan lånes ved å sende epost til [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com) eller ved å forhøre seg på [Facebooksiden til laget](https://www.facebook.com/groups/419165308221828/) for å høre hvor utstyret befinner seg.
 
 Utstyret er også tilgjengelig for utlån til støttemedlemmer.

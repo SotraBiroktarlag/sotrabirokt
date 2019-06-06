@@ -5,9 +5,9 @@ layout: page
 
 Laget arrangerer som regel minst et nybegynnerkurs og et sertifiseringskurs i året. Det pleier også å være en del mindre arrangementer og arbeidsverksteder for spesielle tema som varroabehandling, omlarvingsdager og produksjon av spesielle kuber og utstyr.
 
-# Kommende og pågående arrangementer
+## Kommende og pågående arrangementer
 
-# 2019
+### 2019
 
 Det vil være en rekke arragementer i 2019:
 
@@ -18,21 +18,21 @@ Det vil være en rekke arragementer i 2019:
 
 Følg med for videre informasjon
 
-## Mai
+#### Mai
 
-### Sosialt på Bien bar 8. mai 18:00
+#### Sosialt på Bien bar 8. mai 18:00
 
-Vi tar en ny samling på bien snackbar nå som sesongen er i gang igjen. 
+Vi tar en ny samling på bien snackbar nå som sesongen er i gang igjen.
 
 Vi bestiller bord fra klokken seks og blir sittende utover kvelden.
 
-Vi håper mange kommer innom og deler erfaringer og forteller gode historier fra sesongen. Vi bestiller noen bord og det er mulig å spise og drikke.  Spre det gjerne til andre dere kjenner som driver med bier eller er interessert i birøkt.
+Vi håper mange kommer innom og deler erfaringer og forteller gode historier fra sesongen. Vi bestiller noen bord og det er mulig å spise og drikke. Spre det gjerne til andre dere kjenner som driver med bier eller er interessert i birøkt.
 
 Man kan parkere enten rett nedenfor krysset, mot legevakten, eller utenfor selve legevakten. Alternativt bystasjonen og ta bybanen opp.
 
 [Facebookarrangement](https://www.facebook.com/events/2365461453778657/)
 
-### Fagforedrag på Stend 11.mai kl 11:00
+#### Fagforedrag på Stend 11.mai kl 11:00
 
 Sotra Birøktarlag har i år gleden av å invitere til fagdag på Stend vgs. (Landbruksskolen på Stend, Fanavegen 249, 5244 Fana), 11 mai kl 11:00 i hovedauditoriet.
 
@@ -61,7 +61,7 @@ Pris for kurset på Sotra er kr 2.000, som må betales før kursstart. I tillegg
 
 [Facebooklenke til arrangementet her](https://www.facebook.com/events/169887693949491/) (samme informasjonen som her)
 
-# Tidligere arrangementer
+## Tidligere arrangementer
 
 ## 2018
 
@@ -96,9 +96,9 @@ Det bli middag om kvelden og mingling i baren.
 Trykk på lenke for å se detaljert program og påmelding:
 https://www.deltager.no/vossamotet_2018
 
-Pris for dagpakke er 495,- for medlemmer av birøkterlag og 595,- for deltagere som ikke medlem av birøkterlag. Pris inkluderer seminar med kaffe, kaker og frukt, samt tre-retters middag om kvelden. 
+Pris for dagpakke er 495,- for medlemmer av birøkterlag og 595,- for deltagere som ikke medlem av birøkterlag. Pris inkluderer seminar med kaffe, kaker og frukt, samt tre-retters middag om kvelden.
 
-Ektefeller, samboere og kjærester er hjertelig velkommen på Vossamøte og kan velge mellom dagpakke eller kun middag ved påmelding. 
+Ektefeller, samboere og kjærester er hjertelig velkommen på Vossamøte og kan velge mellom dagpakke eller kun middag ved påmelding.
 
 Deltagere som ønsker å overnatte må bestille dette selv. Ved å referere til «vossamøte birøkt» tilbyr Fleischers enkeltrom til kr.1395,- Pris per person dobbeltrom er kr. 1095,-.
 
@@ -108,7 +108,7 @@ Påmeldingsfrist er 19. Oktober.
 
 ### 13. En samling på Bien Snackbar
 
-Torsdag 7. juni 2018 klokken 18:00 på  Bien snackbar (
+Torsdag 7. juni 2018 klokken 18:00 på Bien snackbar (
 Fjøsangerveien 30, 5054 Bergen)
 
 Vi tar en ny samling på bien snackbar nå som de fleste er ferdig med høsting og slynging.
@@ -127,14 +127,14 @@ Torsdag, 28 juni 2018 fra 17:00-19:00
 
 Sotra Birøktarlag inviterer til omlarvingsdag torsdag 28.juni. Bent Bøtter stiller som erfaren instruktør så her er det bare å ta med dronningramme med cellekopper og ha klar cellebygger i egen bigård. Dette kan være lærerikt selv om du ikke trenger dronninger selv i år.
 
-Arrangementet blir arrangert hos  Biebutikken - Norsk Biutstyr as
+Arrangementet blir arrangert hos Biebutikken - Norsk Biutstyr as
 Peter Jebsens veg 17, 5265 Ytre Arna.
 
 [Facebooklenke til arrangementet her](https://www.facebook.com/events/2219485141606960/) (samme informasjonen som her)
 
 ### 7. En samling på bien snackbar
 
-Torsdag 7. juni 2018 klokken 18:00 på  Bien snackbar (
+Torsdag 7. juni 2018 klokken 18:00 på Bien snackbar (
 Fjøsangerveien 30, 5054 Bergen)
 
 Vi tar en ny samling på bien snackbar nå som sessongen har komt litt i gang.
@@ -153,7 +153,7 @@ Håper på minst like bra oppmøte som sist. 🐝
 
 ### 19. En samling på bien snackbar
 
-Torsdag, 19 april 2018 klokken 18:00 på  Bien snackbar (
+Torsdag, 19 april 2018 klokken 18:00 på Bien snackbar (
 Fjøsangerveien 30, 5054 Bergen)
 
 Vi har snakket en stund om at det mangler møtesteder for birøktere utenom de faglige kurs og møter som holdes i Sotra Birøkterlag.
@@ -195,10 +195,9 @@ Kurset koster kr. 2.200 pluss pensumboken som koster kr. 240.-.
 
 Meld deg på ved å sende en epost til Sotra Birøktarlag på [sotra.biroektarlag@gmail.com](mailto:sotra.biroektarlag@gmail.com)
 
-
 ## 2017
 
-### April
+### April 2017
 
 #### 23. - Workshop for 5-dronnings paringskube
 
@@ -211,7 +210,7 @@ Workshopen blir holdt på Tranevågen Ungdomsskule, Ågotnes.
 Dato: 23. april 2017
 Start: kl 11.00
 
-### Mai
+### Mai 2017
 
 #### 2. KSL Birøkt Workshop
 
@@ -224,7 +223,7 @@ Workshopen er gratis og tilgjengelig for medlemmer og støttemedlemmer av Sotra 
 
 Påmelding via [denne lenken](https://goo.gl/forms/ugMe49GvTQ65MXbF2)
 
-#### 3. - 5.  Varroatest-"safari" på Sotra
+#### 3. - 5. Varroatest-"safari" på Sotra
 
 Varroaen har etablert seg på Sotra og vi, i Sotra Birøktarlag, ønsker å tilby våre medlemmer og støttemedlemmer hjelp og testutstyr for å sjekke status i så mange bigårder som mulig.
 
@@ -248,7 +247,7 @@ Værforbehold.
 
 En kveld med forberedelser og 2–3 omlarvingsdager. En dag med brune bier og en med krainer.
 
-### August
+### August 2017
 
 #### 12. Workshop: En sertifiseringssafari
 
