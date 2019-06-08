@@ -5,23 +5,17 @@ layout: default
 {% include site-header.html %}
 
 <main class="main  container">
+  <div class="content  content--aside-left">
+    <article class="article  article--page typeset">
+      <h1>{{ page.title }}</h1>
 
-	<div class="content  content--aside-left">
+      {{ content }}
+    </article>
 
-		<article class="article  article--page typeset">
+    {% include post-categories.html %}
+  </div>
 
-	    <h1>{{ page.title }}</h1>
-
-			{{ content }}
-
-		</article>
-
-		{% include post-categories.html %}
-
-	</div>
-
-	{% include site-aside.html %}
-
+  {% include site-aside.html %}
 </main>
 
-{% include site-footer.html %}
+<!-- {% include site-footer.html %} -->
