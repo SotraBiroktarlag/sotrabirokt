@@ -28,12 +28,8 @@ Man kan være ordinært medlem eller støttemedlem i Sotra Birøktarlag. Støtte
 
 ## Kontaktinformasjon
 
-For generell kontakt, sende epost til Sotra birøktarlag sin [epost](mailto:sotra.biroektarlag@gmail.com)
+For generell kontakt, sende epost til Sotra birøktarlag sin [epost](mailto:sotra.biroektarlag@gmail.com) eller ta kontakt med leder i Sotra Birøktarlag Truls Berg [epost](mailto:trulsasb@gmail.com), [telefon](tel:+4793854558)
 
-Leder i Sotra Birøktarlag Truls Berg [epost](mailto:trulsasb@gmail.com), [telefon](tel:+4793854558)
-
-Bankkontonummer - 3628.51.19647
-
-Organisasjonsnummer - [913 384 253](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=913+384+253)
-
-Vipps - Sotra Birøktarlag
+- Bankkontonummer - 3628.51.19647
+- Organisasjonsnummer - [913 384 253](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=913+384+253)
+- Vipps - Sotra Birøktarlag
