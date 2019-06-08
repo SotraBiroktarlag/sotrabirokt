@@ -1,5 +1,5 @@
 ---
-title: Medlemskap
+title: Om Sotra Birøkterlag
 layout: page
 ---
 
@@ -29,9 +29,13 @@ Sotra Birøktarlag ble stiftet i 1978 og har hovedsaklig medlemmer fra Øygarden
 
 ## Lederhistorikk
 
+UNDER ARBEID:
+
 - Truls Berg 2018-2019
 - Kjetil Riisnes 2017 - 2018
 - Sissel Goodgame 2016 - 2017
+- Harold Trellevik xxxx - xxxx
+- Tor-Andre Stormark xxxx - xxxx
   ...
 
 <!--
@@ -39,3 +43,19 @@ Sotra Birøktarlag ble stiftet i 1978 og har hovedsaklig medlemmer fra Øygarden
 
 TODO
 -->
+
+## Kontaktinformasjon
+
+### Postadresse
+
+Truls Asbjørn Berg
+
+Romslovegen 89, 5264 Garnes
+
+### Bank og betaling
+
+Bankkontonummer - 3628.51.19647
+
+Organisasjonsnummer - 913 384 253
+
+Vipps - Sotra Birøktarlag
