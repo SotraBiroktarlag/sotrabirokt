@@ -1,5 +1,5 @@
 ---
 title: Søk
 layout: search
-excerpt: "Søk etter en side eller ett innlegg du ser etter"
+excerpt: "Søk etter siden eller innlegget du ser etter"
 ---
